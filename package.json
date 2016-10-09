@@ -1,6 +1,10 @@
 {
   "name": "karabiner-element-swapper",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenotron/karabiner-elements-swapper"
+  },
   "description": "A profile switcher for Karabiner Elements for MacOS Sierra and up",
   "main": "index.js",
   "bin": {
