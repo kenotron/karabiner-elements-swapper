@@ -1,0 +1,14 @@
+{
+  "name": "karabiner-element-swapper",
+  "version": "1.0.0",
+  "description": "A profile switcher for Karabiner Elements for MacOS Sierra and up",
+  "main": "index.js",
+  "bin": {
+    "kara": "index.js"
+  },
+  "author": "Ken Chau <ken@gizzar.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^1.2.1"
+  }
+}
