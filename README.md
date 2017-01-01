@@ -11,7 +11,7 @@ This utility requires node.js to be installed.
 
 # Usage
 
-Make sure you have a configuration file first at $HOME/.karabiner.d/configuration/karabiner.json (here's my example):
+Make sure you have a configuration file first at $HOME/.config/karabiner/karabiner.json (here's my example):
 
     {
         "profiles": [

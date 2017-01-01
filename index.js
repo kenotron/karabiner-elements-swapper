@@ -5,7 +5,7 @@ const os = require('os');
 const path = require('path');
 const inquirer = require('inquirer');
 
-const KARABINER_CONFIG = path.resolve(process.env['HOME'] + "/.karabiner.d/configuration/karabiner.json");
+const KARABINER_CONFIG = path.resolve(process.env['HOME'] + "/.config/karabiner/karabiner.json");
 
 if (!fs.existsSync(KARABINER_CONFIG)) {
     console.error(`This utility requires you to have a file under ${KARABINER_CONFIG}`);
